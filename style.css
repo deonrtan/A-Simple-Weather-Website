@@ -24,7 +24,7 @@ h1.temp{
     width:100%; /* Width of the object */
     max-width: 300px; 
     height: 100%; /* Height of the object */
-    max-height: 320px;
+    max-height: 370px;
     margin-top: 1em; /* How far it is from the top */
 }
 

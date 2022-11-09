@@ -6,8 +6,6 @@ body{
  font-family: 'Montserrat', sans-serif;
  background: #222;
  background-image: url(https://source.unsplash.com/1600x900/?landspace?); /* API FOR IMAGES */
- background-position: center;
- background-repeat: no-repeat;
  background-size: cover;
  font-size: 120%;
 }
